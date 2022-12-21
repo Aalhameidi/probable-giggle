@@ -1,0 +1,8 @@
+@import './partial.css';
+    
+h1{
+    color:brown;
+    background-color: beige;
+    /* text-align: center; */
+}
+
